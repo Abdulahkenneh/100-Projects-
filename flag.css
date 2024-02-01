@@ -1,0 +1,36 @@
+.container{
+  background-color: gray;
+  width: 100vw;
+  height: 30vh;
+  display: grid;
+  grid-template-columns:repeat(2,1fr);
+  grid-template-rows:1fr 2fr;
+}
+
+.star{
+  background-color: blue;
+  grid-column: 1/2;
+}
+
+.leftstript{
+  grid-column: 2/-1;
+  background-color: pink;
+  display: grid;
+  
+}
+.bottomstript{
+  display: grid;
+  background-color: orange;
+  grid-column:1/-1;
+}
+
+ .red{
+   background-color: red;
+   flex-grow:1;
+   height:20px;
+ }
+ .white{
+   background-color: white;
+   height:20px;
+   
+ }

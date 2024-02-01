@@ -1,0 +1,38 @@
+*{
+  list-style: none;
+}
+
+legend{
+  margin: 20px;
+  text-align: center;
+  color: blue;
+  font-size: 15px;
+}
+
+.firstlast{
+  margin-left: 30px;
+  margin-bottom: 5px;
+  width:250px;
+  height: 20px;
+}
+.mid{
+margin-left:13px;
+width: 250px;
+  
+}
+
+textarea{
+  width: 350px;
+  border: solid thick gray
+}
+
+#btn{
+  float: right;
+  background-color:green;
+  color:white;
+}
+#btnre{
+  float: right;
+  background-color: red;
+  color: white
+}
