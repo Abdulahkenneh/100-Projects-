@@ -14,6 +14,6 @@ span.onclick = function(){
   span.innerHTML = "ON"
   }
   else {
-    span.innerHTML = "OFF"
+   span.innerHTML="OFF"
   }
 }

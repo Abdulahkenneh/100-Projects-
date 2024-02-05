@@ -1,0 +1,28 @@
+.container {
+  display:inline-block;
+}
+
+.container div {
+  width:36px;
+  height: 5px;
+  background: blue;
+  line-height: 5px;
+  margin-top:5px;
+  border: 0px;
+}
+
+.rotate .bar3{
+
+  transform: translate(0,-10px)
+  rotate(45deg)
+}
+
+.rotate .bar2{
+  opacity:0 ;
+}
+
+.rotate .bar1{
+
+  transform: translate(0,11px)
+  rotate(-45deg)
+}

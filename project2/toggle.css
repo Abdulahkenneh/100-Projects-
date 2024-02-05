@@ -36,14 +36,14 @@ body.active{
   margin-top:2px;
   width:70px;
   height:45px;
-  background:red;
+  background:green;
   border-radius:24px;
   
 }
 
 #container.active .swish {
   margin-left:4.8rem;
-  background: green;
+  background: red;
 }
 
 .swish span{
