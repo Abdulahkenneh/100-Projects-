@@ -1,0 +1,34 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+.navbar{
+  background-color:#42445A;
+}
+.nav-link{
+  color:white;
+}
+
+.navbar-brand{
+  background:white;
+  padding:5px;
+  color:#6FC7CA;
+  border-radius:10px;
+}
+
+.navbar-toggler{
+  background:white;
+}
+
+main{
+  margin:1.5rem;
+}
+.hero{
+  text-align:center;
+}
+
+.sidebtn{
+  float: left;
+}
