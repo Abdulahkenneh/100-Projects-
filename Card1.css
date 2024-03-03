@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="card1.css">
+  <title></title>
+</head>
+
+<body>
+<div class="main">
+  <h3>Responsive Card Grid Layout
+  Invest in these courses and gain valuable programming, data analysis, and visualization skills in high demand today. Excel in your academic or professional pursuits with the knowledge and expertise gained from these courses</h3>
+  <ul class="cards">
+    <li class="cards_item">
+      <div class="card">
+        <div class="card_image"><img src="Python.png"></div>
+        <div class="card_content">
+          <h2 class="card_title">Python</h2>
+          <p class="card_text">
+          Are you ready to master Python? Learn the most versatile and powerful programming language that serves as a foundation for various applications.
+
+
+
+
+
+
+  Invest in these courses and gain valuable programming, data analysis, and visualization skills in high demand today. Excel in your academic or professional pursuits with the knowledge and expertise gained from these courses.</p>
+          <button class="btn card_btn">Read More</button>
+        </div>
+      </div>
+    </li>
+    <li class="cards_item">
+      <div class="card">
+        <div class="card_image">
+          <img src="javascript.png" alt="matplotlib">
+        </div>
+        <div class="card_content">
+          <h2 class="card_title">Javascript</h2>
+          <p class="card_text">
+          
+          Take your web development skills to the next level with JavaScript. Bring your web pages to life with interactivity and dynamic functionalities.</p>
+          <button class="btn card_btn">Read More</button>
+        </div>
+      </div>
+    </li>
+    <li class="cards_item">
+      <div class="card">
+        <div class="card_image"><img src="matplotlib.png"></div>
+        <div class="card_content">
+          <h2 class="card_title">Matplotlib</h2>
+          <p class="card_text">Enhance your data visualization skills with Matplotlib. Create visually stunning and informative plots and graphs to effectively communicate your data.
+
+          
+          
+          
+          </p>
+          <button class="btn card_btn">Read More</button>
+        </div>
+      </div>
+    </li>
+    <li class="cards_item">
+      <div class="card">
+        <div class="card_image"><img src="pandas.png"></div>
+        <div class="card_content">
+          <h2 class="card_title">Pandas</h2>
+          <p class="card_text">
+          Discover the power of Pandas, a Python library essential for efficient data manipulation and analysis. Unlock the potential of large datasets and maximize your data processing capabilities.</p>
+          <button class="btn card_btn">Read More</button>
+          </div>
+      </div>
+      </div>
+    </ul>
+</body>
+
+</html>
